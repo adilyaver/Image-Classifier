@@ -27,9 +27,9 @@ This repo contains the code to train a Convolutional Neural Network to distingui
 ├── notebooks/
 │   └── training_experiments.ipynb
 ├── scripts/
-│   ├── train_cnn.py
-│   ├── train_mobilenet.py
-│   ├── predict_image.py
+│   ├── train_cnn.ipynb
+│   ├── train_mobilenet.ipynb
+│   ├── test.ipynb
 │   └── webcam_classifier.py
 ├── utils/
 │   └── gradcam.py
