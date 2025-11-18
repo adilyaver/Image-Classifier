@@ -24,15 +24,12 @@ This repo contains the code to train a Convolutional Neural Network to distingui
 ├── models/
 │   ├── cnn_model.h5
 │   └── mobilenet_model.h5
-├── notebooks/
-│   └── training_experiments.ipynb
 ├── scripts/
 │   ├── train_cnn.ipynb
 │   ├── train_mobilenet.ipynb
 │   ├── test.ipynb
 │   └── webcam_classifier.py
-├── utils/
-│   └── gradcam.py
+├── requirements.txt
 └── README.md
 ```
 
